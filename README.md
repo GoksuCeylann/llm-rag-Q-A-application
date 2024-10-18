@@ -1,4 +1,4 @@
-# LLM Soru-Cevap sistemi
+# LLM Q&A Application
 
 ## Setup
 
